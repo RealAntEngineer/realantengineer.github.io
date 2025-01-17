@@ -178,3 +178,7 @@ h3 {
 #mainContent ul li {
     margin-bottom: 5px;
 }
+
+main {
+    margin-left: 20px; /* Moves the entire main section to the right */
+}
