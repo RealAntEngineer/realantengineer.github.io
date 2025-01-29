@@ -1,3 +1,7 @@
 [
-  { "name": "Rockets", "url": "/categories/Machines/RocketControls.html" }
+  { "name": "Rockets", "url": "/categories/machines/RocketControls.html" },
+  { "name": "Orbit", "url": "/categories/planets/orbits.html" },
+  { "name": "The Moon", "url": "/categories/planets/the_moon.html" },
+  { "name": "Traveling ", "url": "/categories/planets/traveling.html" }
+
 ]
